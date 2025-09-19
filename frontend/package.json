@@ -1,0 +1,23 @@
+{
+  "name": "insightsphere-frontend",
+  "version": "1.0.0",
+  "description": "InsightSphere 实时加密货币数据可视化仪表盘前端",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8798",
+    "start": "python -m http.server 8798",
+    "build": "echo 'No build step required for vanilla JS'",
+    "serve": "python -m http.server 8798"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "dashboard",
+    "visualization",
+    "realtime",
+    "coingecko"
+  ],
+  "author": "InsightSphere Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
